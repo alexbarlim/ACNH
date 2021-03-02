@@ -1,10 +1,12 @@
 ---
 layout: default
 ---
-{% include header.html %}
+  {% include header.html %}
 
-  <article class="post">
-      {{page.content}}
-  </article>
+  <main class="page-content" aria-label="Content">
+  <section class="chapters cf">
+      {{ content }}
+  </section>
+  </main>
 
-{% include footer.html %}
+  {% include footer.html %}
