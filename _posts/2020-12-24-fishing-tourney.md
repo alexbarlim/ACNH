@@ -55,13 +55,31 @@ Para ganhar mais pontos extras de bônus você pode jogar em **multiplayer**. Jo
 </table>
 
 
+<div class="divTable" style="width: 100%;">
+<div class="divTableBody">
+<div class="divTableRow">
+<div class="divTableCell"><img src="{{site.baseurl}}/assets/img/fishing-tourney/TrophyFishBronz.png" style="width:100%;max-width:128px"></div>
+<div class="divTableCell"><img src="{{site.baseurl}}/assets/img/fishing-tourney/TrophyFishSilver.png" style="width:100%;max-width:128px"></div>
+<div class="divTableCell"><img src="{{site.baseurl}}/assets/img/fishing-tourney/TrophyFishGold.png"  style="width:100%;max-width:128px"></div>
+</div>
+<div class="divTableRow">
+<div class="divTableCell"><center>Bronze Fish Trophy<br>100 points</center></div>
+<div class="divTableCell"><center>Silver Fish Trophy<br>200 points</center></div>
+<div class="divTableCell"><center>Gold Fish Trophy<br>300 points</center></div>
+</div>
+</div>
+</div>
+<!-- DivTable.com -->
 
-<div style="width:100%;max-width:128px">
+
+
+
+
 |Bronze Fish Trophy|Silver Fish Trophy|Gold Fish Trophy|
 |:-:|:-:|:-:|
 |(100 points)|(200 points)|(300 points)|
 |![img]({{site.baseurl}}/assets/img/fishing-tourney/TrophyFishBronz.png)|![img]({{site.baseurl}}/assets/img/fishing-tourney/TrophyFishSilver.png)|![img]({{site.baseurl}}/assets/img/fishing-tourney/TrophyFishGold.png)|
-</div>
+
 
 Você **ganhará troféus** baseado na quantidade cumulativa de pontos que você ganhou. No dia seguinte ele será enviado para você.
 
