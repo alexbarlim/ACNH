@@ -1,0 +1,23 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="#56A93A"/>
+  
+  <g opacity="0.2">
+    <polygon points="5,30 -10,60 30,50" fill="#7BCE5E" />
+    <polygon points="5,30 -10,60 30,50" fill="#7BCE5E" transform="translate(100 0)"/>
+
+    <polygon points="40,-20 20,25 60,10" fill="#5BCD65" />
+    <polygon points="40,-20 20,25 60,10" fill="#5BCD65" transform="translate(0 100)"/>
+
+    <polygon points="25,60 -10,80 30,95" fill="#6BC66E" />
+    <polygon points="25,60 -10,80 30,95" fill="#6BC66E" transform="translate(100 0)"/>
+
+    <polygon points="95,10 50,30 85,40" fill="#81CC54" />
+
+    <polygon points="85,100 55,90 75,60" fill="#73C650" />
+
+    <polygon points="40,40 35,70 75,50" fill="#72C84D" />
+
+    <polygon points="20,0 0,-10 0,25" fill="#75C856" />
+    <polygon points="20,0 0,-10 0,25" fill="#75C856" transform="translate(0 100)"/>
+  </g>
+</svg>

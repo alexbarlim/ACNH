@@ -1,0 +1,61 @@
+ * { box-sizing: border-box; }
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 2em;
+  background-color: #56A93A;
+  background-image: url(bg.svg); 
+  background-size: 50px;
+}
+
+
+main {
+  max-width: 480px;
+  margin: auto;
+}
+
+h1 {
+  color: white;
+  text-shadow: 0 2px 4px hsla(0, 0%, 0%, 0.1);
+  font-family: Courier, sans-serif;
+}
+
+p { margin: 0 }
+ 
+#map {
+  border: 10px solid #FAFAE1;
+  box-shadow: 0 8px 16px hsla(0, 0%, 0%, 0.1);
+}
+
+@keyframes line {
+  from { stroke: #F16EAA; }
+  to { stroke: #F5B519; }
+}
+
+#map .line {
+  animation-name: line;
+  animation-duration: 0.5s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+  animation-timing-function: linear;
+}
+
+form#wind {
+  display: flex;
+  background-color: #FAFAE1;
+  border-radius: 2em;
+  margin-top: 16px;
+  color: #906d37;
+  align-items: center;
+}
+
+form#wind .desc {
+  width: 100%;
+  text-align: center;
+}
+
+form#wind input {
+  display: block;
+  margin: 12px;
+  cursor: pointer;
+}
