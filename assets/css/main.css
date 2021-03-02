@@ -3850,7 +3850,7 @@ template {
 body {
   font-family: "Lato", sans-serif;
   -webkit-font-smoothing: antialiased;
-  background-color: #262626;
+  background-color: #FAFAE1;
   margin: 0;
 }
 
@@ -4224,7 +4224,7 @@ cite {
   font-size: 1.75rem;
   -webkit-border-radius: 0.3rem;
           border-radius: 0.3rem;
-  background-color: #262626;
+  background-color: #FAFAE1;
   -webkit-transition: all .35s ease-in-out;
   transition: all .35s ease-in-out;
 }
@@ -4390,7 +4390,7 @@ cite {
 .author .author_info .author_title {
   font-size: 1.5rem;
   margin-top: 0;
-  color: #262626;
+  color: #FAFAE1;
 }
 
 .author .author_info .author_title::before, .author .author_info .author_title::after {
@@ -4479,7 +4479,7 @@ cite {
 #tags h1 {
   text-align: center;
   margin: 2rem 0 3rem;
-  color: #262626;
+  color: #FAFAE1;
 }
 
 #tags .tags {
@@ -4534,7 +4534,7 @@ cite {
 #tags .back_to_home a {
   text-decoration: none;
   font-size: 1.2rem;
-  color: #262626;
+  color: #FAFAE1;
 }
 
 #tags .back_to_home a:hover {
@@ -4597,7 +4597,7 @@ cite {
 
 .about .about_social .social_footer a {
   font-size: 1rem;
-  color: #262626;
+  color: #FAFAE1;
   background-color: #ffffff;
 }
 
