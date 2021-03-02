@@ -36,7 +36,7 @@ C.J. também vai comprar todos os peixes que você pescou durante o torneio, al�
 Para ganhar mais pontos extras de bônus você pode jogar em **multiplayer**. Jogar em grupo dará mais pontos extras.
 
 
-
+<center>
 <table>
 <thead>
   <tr>
@@ -53,7 +53,7 @@ Para ganhar mais pontos extras de bônus você pode jogar em **multiplayer**. Jo
   </tr>
 </tbody>
 </table>
-
+</center>
 
 <div class="divTable">
 <div class="divTableBody">
