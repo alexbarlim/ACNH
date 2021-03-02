@@ -35,6 +35,9 @@ C.J. também vai comprar todos os peixes que você pescou durante o torneio, al�
 
 Para ganhar mais pontos extras de bônus você pode jogar em **multiplayer**. Jogar em grupo dará mais pontos extras.
 
+My ![img!]({{site.baseurl}}/assets/img/fishing-tourney/TrophyFishBronz.png "This is a Title" )
+
+
 
 |Bronze Fish Trophy|
 |:-:|
