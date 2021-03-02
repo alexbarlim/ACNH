@@ -55,7 +55,7 @@ Para ganhar mais pontos extras de bônus você pode jogar em **multiplayer**. Jo
 </table>
 
 
-<div class="divTable" style="width: 100%;">
+<div class="divTable">
 <div class="divTableBody">
 <div class="divTableRow">
 <div class="divTableCell"><center><img src="{{site.baseurl}}/assets/img/fishing-tourney/TrophyFishBronz.png" style="width:100%;max-width:128px"></center></div>
