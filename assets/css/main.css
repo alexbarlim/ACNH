@@ -3944,7 +3944,7 @@ cite {
   -webkit-align-items: center;
       -ms-flex-align: center;
           align-items: center;
-  background-color: #1c1c1c;
+  background-color: #3F7F69;
   z-index: 1;
 }
 
@@ -4199,7 +4199,7 @@ cite {
   left: 0;
   bottom: 0;
   width: 100%;
-  background-color: #1c1c1c;
+  background-color: #3F7F69;
 }
 
 .social_footer {
