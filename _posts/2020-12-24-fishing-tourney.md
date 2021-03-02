@@ -167,7 +167,7 @@ E o cooler deve estar vazio antes de jogar novamente!
 <table>
 <thead>
   <tr>
-    <th><center><b>| Total de insetos pegos – Multiplayer |</b></center></th>
+    <th><center><b>| Total de peixes pegos – Multiplayer |</b></center></th>
     <th><center><b>| Total de bônus para todos |</b></center></th>
   </tr>
 </thead>
