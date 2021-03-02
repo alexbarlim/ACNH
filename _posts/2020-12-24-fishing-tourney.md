@@ -39,9 +39,9 @@ Para ganhar mais pontos extras de bônus você pode jogar em **multiplayer**. Jo
 <table>
 <thead>
   <tr>
-    <th><img src="https://www.tablesgenerator.com/%7B%7Bsite.baseurl%7D%7D/assets/img/fishing-tourney/TrophyFishBronz.png" width="400" height="300"></th>
-    <th><img src="https://www.tablesgenerator.com/%7B%7Bsite.baseurl%7D%7D/assets/img/fishing-tourney/TrophyFishSilver.png" width="400" height="300"></th>
-    <th><img src="https://www.tablesgenerator.com/%7B%7Bsite.baseurl%7D%7D/assets/img/fishing-tourney/TrophyFishGold.png" width="400" height="300"></th>
+    <th><img src="{{site.baseurl}}/assets/img/fishing-tourney/TrophyFishBronz.png" class="post_image"></th>
+    <th><img src="{{site.baseurl}}/assets/img/fishing-tourney/TrophyFishSilver.png" class="post_image"></th>
+    <th><img src="{{site.baseurl}}/assets/img/fishing-tourney/TrophyFishGold.png" class="post_image"></th>
   </tr>
 </thead>
 <tbody>
