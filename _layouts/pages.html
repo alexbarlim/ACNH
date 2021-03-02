@@ -1,14 +1,11 @@
----
-layout: default
----
-  {% include header.html %}
+<main class="post_content">
 
-  <main class="page-content" aria-label="Content">
-  <section class="chapters cf">
-      <div class="wrapper flex-row">
-      {{ content }}
-      </div>
-  </section>
-  </main>
 
-  {% include footer.html %}
+    <div class="entry_content">
+      {{page.content}}
+    </div>
+
+
+</main>
+
+{% include footer.html %}
