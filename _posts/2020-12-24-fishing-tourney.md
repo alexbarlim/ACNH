@@ -39,17 +39,17 @@ Para ganhar mais pontos extras de bônus você pode jogar em **multiplayer**. Jo
 |Bronze Fish Trophy|
 |:----------------:|
 |(100 points)|
-|![img]({{site.baseurl}}/assets/img/fishing-tourney/TrophyFishBronz.png)|
+|![img]({{site.baseurl}}/assets/img/fishing-tourney/TrophyFishBronz.png){width=100%}|
 
 |Silver Fish Trophy|
 |:----------------:|
 |(200 points)|
-|![img]({{site.baseurl}}/assets/img/fishing-tourney/TrophyFishSilver.png)|
+|![img]({{site.baseurl}}/assets/img/fishing-tourney/TrophyFishSilver.png){width=100%}|
 
 |Gold Fish Trophy|
 |:--------------:|
 |(300 points)|
-|![img]({{site.baseurl}}/assets/img/fishing-tourney/TrophyFishGold.png)|
+|![img]({{site.baseurl}}/assets/img/fishing-tourney/TrophyFishGold.png){width=100%}|
 
 
 |Bronze Fish Trophy|Silver Fish Trophy|Gold Fish Trophy|
