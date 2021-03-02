@@ -4195,9 +4195,8 @@ cite {
 }
 
 .main_footer {
-width: 101%;
-margin: -0% -1%;
-margin-bottom: -1%;
+  height: 50px;
+  margin-top: -50px;
   background-color: #3F7F69;
 }
 
