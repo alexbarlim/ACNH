@@ -164,14 +164,12 @@ Jogar no **multiplayer** te garante pontos em bônus além de seus pontos indivi
 
 E o cooler deve estar vazio antes de jogar novamente!
 
-
-
 <center>
 <table>
 <thead>
   <tr>
-    <th><center><b>Total de insetos pegos – Multiplayer</b></center></th>
-    <th><center><b>Total de bônus para todos</b></center></th>
+    <th><center><b>Total de insetos pegos – Multiplayer |</b></center></th>
+    <th><center><b>| Total de bônus para todos</b></center></th>
   </tr>
 </thead>
 <tbody>
@@ -194,16 +192,6 @@ E o cooler deve estar vazio antes de jogar novamente!
 </tbody>
 </table>
 </center>
-
-
-
-
-
-| Total de insetos pegos – Multiplayer | Total de bônus para todos |
-| :----------------------------------: | :-----------------------: |
-|                5 – 9                 |             5             |
-|               10 – 14                |             7             |
-|                 15 +                 |            10             |
 
 ## Algumas Dicas para o Fishing Tourney
 
