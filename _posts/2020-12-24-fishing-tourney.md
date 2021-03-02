@@ -55,21 +55,6 @@ Para ganhar mais pontos extras de bônus você pode jogar em **multiplayer**. Jo
 </table>
 </center>
 
-<div class="divTable">
-<div class="divTableBody">
-<div class="divTableRow">
-<div class="divTableCell"><center><img src="{{site.baseurl}}/assets/img/fishing-tourney/TrophyFishBronz.png" style="width:100%;max-width:128px"></center></div>
-<div class="divTableCell"><center><img src="{{site.baseurl}}/assets/img/fishing-tourney/TrophyFishSilver.png" style="width:100%;max-width:128px"></center></div>
-<div class="divTableCell"><center><img src="{{site.baseurl}}/assets/img/fishing-tourney/TrophyFishGold.png"  style="width:100%;max-width:128px"></center></div>
-</div>
-<div class="divTableRow">
-<div class="divTableCell"><center>Bronze Fish Trophy<br>100 points</center></div>
-<div class="divTableCell"><center>Silver Fish Trophy<br>200 points</center></div>
-<div class="divTableCell"><center>Gold Fish Trophy<br>300 points</center></div>
-</div>
-</div>
-</div>
-<!-- DivTable.com -->
 
 
 
