@@ -38,7 +38,7 @@ Para ganhar mais pontos extras de bônus você pode jogar em **multiplayer**. Jo
 |Bronze Fish Trophy|Silver Fish Trophy|Gold Fish Trophy|
 |:----------------:|:----------------:|:--------------:|
 |(100 points)|(200 points)|(300 points)|
-|![img](http://acnh.alexbarlim.com/wp-content/uploads/2020/12/TrophyFishBronz.png)|![img](http://acnh.alexbarlim.com/wp-content/uploads/2020/12/TrophyFishSilver.png)|![img](http://acnh.alexbarlim.com/wp-content/uploads/2020/12/TrophyFishGold.png)|
+|![img]({{site.baseurl}}/assets/img/fishing-tourney/TrophyFishBronz.png)|![img]({{site.baseurl}}/assets/img/fishing-tourney/TrophyFishSilver.png)|![img]({{site.baseurl}}/assets/img/fishing-tourney/TrophyFishGold.png)|
 
 Você **ganhará troféus** baseado na quantidade cumulativa de pontos que você ganhou. No dia seguinte ele será enviado para você.
 
@@ -49,16 +49,16 @@ Usando **10 pontos** você pode falar com **C.J.** e resgatar um prêmio aleató
 *O resgate do prêmio não afeta a contagem de pontos do troféu.*
 
 
-|<img src="http://acnh.alexbarlim.com/wp-content/uploads/2020/12/anchor_statue.png" width="128px" height="128px">|<img src="http://acnh.alexbarlim.com/wp-content/uploads/2020/12/fish_doorplate.png" width="128px" height="128px">|<img src="http://acnh.alexbarlim.com/wp-content/uploads/2020/12/fish_pochette.png" width="128px" height="128px">|
+|<img src="{{site.baseurl}}/assets/img/fishing-tourney/anchor_statue.png" width="128px" height="128px">|<img src="{{site.baseurl}}/assets/img/fishing-tourney/fish_doorplate.png" width="128px" height="128px">|<img src="{{site.baseurl}}/assets/img/fishing-tourney/fish_pochette.png" width="128px" height="128px">|
 | :-------------------------:| :-------------------------:| :-------------------------:|
 | Anchor Statue <br />(com 6 variações)|Fish Doorplate<br />(com 8 variações)|Fish Pochette|
-|<img src="http://acnh.alexbarlim.com/wp-content/uploads/2020/12/fish_print.png" width="128px" height="128px">|<img src="http://acnh.alexbarlim.com/wp-content/uploads/2020/12/fish_rug.png" width="128px" height="128px">|<img src="http://acnh.alexbarlim.com/wp-content/uploads/2020/12/fish_umbrella.png" width="128px" height="128px">|
+|<img src="{{site.baseurl}}/assets/img/fishing-tourney/fish_print.png" width="128px" height="128px">|<img src="{{site.baseurl}}/assets/img/fishing-tourney/fish_rug.png" width="128px" height="128px">|<img src="{{site.baseurl}}/assets/img/fishing-tourney/fish_umbrella.png" width="128px" height="128px">|
 |Fish Print<br />(com 7 variações)|Fish Rug|Fish Umbrella|
-|<img src="http://acnh.alexbarlim.com/wp-content/uploads/2020/12/fish_wand.png" width="128px" height="128px">|<img src="http://acnh.alexbarlim.com/wp-content/uploads/2020/12/fish-drying_rack.png" width="128px" height="128px">|<img src="http://acnh.alexbarlim.com/wp-content/uploads/2020/12/fishing-rod_stand.png" width="128px" height="128px">|
+|<img src="{{site.baseurl}}/assets/img/fishing-tourney/fish_wand.png" width="128px" height="128px">|<img src="{{site.baseurl}}/assets/img/fishing-tourney/fish-drying_rack.png" width="128px" height="128px">|<img src="{{site.baseurl}}/assets/img/fishing-tourney/fishing-rod_stand.png" width="128px" height="128px">|
 |Fish Wand|Fish-Drying Rack<br />(com 3 variações)|Fishing-Rod Stand<br />(com 3 variações)|
-|<img src="http://acnh.alexbarlim.com/wp-content/uploads/2020/12/fish-print_tee.png" width="128px" height="128px">|<img src="http://acnh.alexbarlim.com/wp-content/uploads/2020/12/fresh_cooler.png" width="128px" height="128px">|<img src="http://acnh.alexbarlim.com/wp-content/uploads/2020/12/marine_pop_wall.png" width="128px" height="128px">|
+|<img src="{{site.baseurl}}/assets/img/fishing-tourney/fish-print_tee.png" width="128px" height="128px">|<img src="{{site.baseurl}}/assets/img/fishing-tourney/fresh_cooler.png" width="128px" height="128px">|<img src="{{site.baseurl}}/assets/img/fishing-tourney/marine_pop_wall.png" width="128px" height="128px">|
 |Fish-Print Tee|Fresh Cooler|Marine Pop Wall|
-|<img src="http://acnh.alexbarlim.com/wp-content/uploads/2020/12/tackle_bag.png" width="128px" height="128px">|||
+|<img src="{{site.baseurl}}/assets/img/fishing-tourney/tackle_bag.png" width="128px" height="128px">|||
 |Tackle Bag|||
 
 ## Bônus de Pontos no Multiplayer
