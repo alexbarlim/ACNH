@@ -35,7 +35,6 @@ C.J. também vai comprar todos os peixes que você pescou durante o torneio, al�
 
 Para ganhar mais pontos extras de bônus você pode jogar em **multiplayer**. Jogar em grupo dará mais pontos extras.
 
-
 <center>
 <table>
 <thead>
@@ -54,6 +53,7 @@ Para ganhar mais pontos extras de bônus você pode jogar em **multiplayer**. Jo
 </tbody>
 </table>
 </center>
+
 
 Você **ganhará troféus** baseado na quantidade cumulativa de pontos que você ganhou. No dia seguinte ele será enviado para você.
 
@@ -163,6 +163,41 @@ Usando **10 pontos** você pode falar com **C.J.** e resgatar um prêmio aleató
 Jogar no **multiplayer** te garante pontos em bônus além de seus pontos individuais! Cada jogador receber os pontos em bônus – não divididos. O pagamento de 500 Bells também é dispensado quando se joga em multiplayer.
 
 E o cooler deve estar vazio antes de jogar novamente!
+
+
+
+<center>
+<table>
+<thead>
+  <tr>
+    <th><center><b>Total de insetos pegos – Multiplayer</b></center></th>
+    <th><center><b>Total de bônus para todos</b></center></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><center>5 - 9</center></td>
+    <td><center>5</center></td>
+  </tr>
+</tbody>
+<tbody>
+  <tr>
+    <td><center>10 - 14</center></td>
+    <td><center>7</center></td>
+  </tr>
+</tbody>
+<tbody>
+  <tr>
+    <td><center>15 +</center></td>
+    <td><center>10</center></td>
+  </tr>
+</tbody>
+</table>
+</center>
+
+
+
+
 
 | Total de insetos pegos – Multiplayer | Total de bônus para todos |
 | :----------------------------------: | :-----------------------: |
