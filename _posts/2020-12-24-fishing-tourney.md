@@ -36,6 +36,7 @@ C.J. também vai comprar todos os peixes que você pescou durante o torneio, al�
 Para ganhar mais pontos extras de bônus você pode jogar em **multiplayer**. Jogar em grupo dará mais pontos extras.
 
 
+
 <table>
 <thead>
   <tr>
@@ -55,27 +56,12 @@ Para ganhar mais pontos extras de bônus você pode jogar em **multiplayer**. Jo
 
 
 
-
-|Bronze Fish Trophy|
-|:-:|
-|(100 points)|
-|![img]({{site.baseurl}}/assets/img/fishing-tourney/TrophyFishBronz.png)|
-
-|Silver Fish Trophy|
-|:-:|
-|(200 points)|
-|![img]({{site.baseurl}}/assets/img/fishing-tourney/TrophyFishSilver.png)|
-
-|Gold Fish Trophy|
-|:-:|
-|(300 points)|
-|![img]({{site.baseurl}}/assets/img/fishing-tourney/TrophyFishGold.png)|
-
-
+<div style="width:100%;max-width:128px">
 |Bronze Fish Trophy|Silver Fish Trophy|Gold Fish Trophy|
 |:-:|:-:|:-:|
 |(100 points)|(200 points)|(300 points)|
 |![img]({{site.baseurl}}/assets/img/fishing-tourney/TrophyFishBronz.png)|![img]({{site.baseurl}}/assets/img/fishing-tourney/TrophyFishSilver.png)|![img]({{site.baseurl}}/assets/img/fishing-tourney/TrophyFishGold.png)|
+</div>
 
 Você **ganhará troféus** baseado na quantidade cumulativa de pontos que você ganhou. No dia seguinte ele será enviado para você.
 
