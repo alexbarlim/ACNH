@@ -53,8 +53,7 @@ Para ganhar mais pontos extras de bônus você pode jogar em **multiplayer**. Jo
 </tbody>
 </table>
 </center>
-
-
+<br/>
 Você **ganhará troféus** baseado na quantidade cumulativa de pontos que você ganhou. No dia seguinte ele será enviado para você.
 
 ## Prêmios Resgatáveis
@@ -192,8 +191,7 @@ E o cooler deve estar vazio antes de jogar novamente!
 </tbody>
 </table>
 </center>
-
-
+<br/>
 ## Algumas Dicas para o Fishing Tourney
 
 - Se você quiser aproveitar ao máximo o evento, recomendo estocar algumas **iscas de peixe** para serem usadas durante ele.
