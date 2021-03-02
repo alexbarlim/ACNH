@@ -2,8 +2,8 @@ logo: # add logo name
 title: Animal Crossing - New Horizons
 description: > # this means to ignore newlines until "baseurl:"
 permalink: ':title/'
-baseurl: "/temp" # the subpath of your site, e.g. /blog
-url: "https://alexbarlim.com" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://acnh.alexbarlim.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner settings
 video: # add banner video. Add your video file to the folder video
