@@ -4103,7 +4103,7 @@ min-height: 700px;
   font-size: 0.9rem;
   text-align: center;
   text-transform: uppercase;
-  background-color: #c0334a;
+  background-color: #3f7f69;
   cursor: pointer;
   -webkit-border-radius: 2.5rem;
           border-radius: 2.5rem;
@@ -4181,7 +4181,7 @@ min-height: 700px;
 
 .top:hover {
   color: #ffffff;
-  background-color: #c0334a;
+  background-color: #3f7f69;
   opacity: .8;
 }
 
@@ -4227,7 +4227,7 @@ min-height: 700px;
 }
 
 .social_footer a:hover {
-  background-color: #c0334a;
+  background-color: #3f7f69;
   color: #ffffff;
 }
 
@@ -4487,12 +4487,12 @@ min-height: 700px;
 #tags .tags li {
   float: left;
   margin: 0 0.5rem 0.5rem 0;
-  border: 1px solid #c0334a;
+  border: 1px solid #3f7f69;
   -webkit-border-radius: 0.5rem;
           border-radius: 0.5rem;
   background-color: #d25469;
-  -webkit-box-shadow: 0 2px 0 #c0334a;
-          box-shadow: 0 2px 0 #c0334a;
+  -webkit-box-shadow: 0 2px 0 #3f7f69;
+          box-shadow: 0 2px 0 #3f7f69;
   -webkit-transition: all .35s;
   transition: all .35s;
 }
@@ -4515,7 +4515,7 @@ min-height: 700px;
 }
 
 #tags .tag_list a {
-  color: #c0334a;
+  color: #3f7f69;
 }
 
 #tags .tag_list a:hover {
@@ -4598,7 +4598,7 @@ min-height: 700px;
 }
 
 .about .about_social .social_footer a:hover {
-  color: #c0334a;
+  color: #3f7f69;
 }
 
 .contact {
