@@ -47,24 +47,13 @@ Para ganhar mais pontos extras de bônus você pode jogar em **multiplayer**. Jo
 </thead>
 <tbody>
   <tr>
-    <td><center>Bronze Fish Trophy<br>100 points</center></td>
-    <td><center>Silver Fish Trophy<br>200 points</center></td>
-    <td><center>Gold Fish Trophy<br>300 points</center></td>
+    <td><center><b>Bronze Fish Trophy</b><br>100 points</center></td>
+    <td><center><b>Silver Fish Trophy</b><br>200 points</center></td>
+    <td><center><b>Gold Fish Trophy</b><br>300 points</center></td>
   </tr>
 </tbody>
 </table>
 </center>
-
-
-
-
-
-
-|Bronze Fish Trophy|Silver Fish Trophy|Gold Fish Trophy|
-|:-:|:-:|:-:|
-|(100 points)|(200 points)|(300 points)|
-|![img]({{site.baseurl}}/assets/img/fishing-tourney/TrophyFishBronz.png)|![img]({{site.baseurl}}/assets/img/fishing-tourney/TrophyFishSilver.png)|![img]({{site.baseurl}}/assets/img/fishing-tourney/TrophyFishGold.png)|
-
 
 Você **ganhará troféus** baseado na quantidade cumulativa de pontos que você ganhou. No dia seguinte ele será enviado para você.
 
@@ -74,18 +63,100 @@ Usando **10 pontos** você pode falar com **C.J.** e resgatar um prêmio aleató
 
 *O resgate do prêmio não afeta a contagem de pontos do troféu.*
 
+<center>
+<table>
+<thead>
+  <tr>
+    <th><img src="https://alexbarlim.com/temp/assets/img/fishing-tourney/anchor_statue.png" style="width:100%;max-width:128px"></th>
+    <th><img src="https://alexbarlim.com/temp/assets/img/fishing-tourney/fish_doorplate.png" style="width:100%;max-width:128px"></th>
+    <th><img src="https://alexbarlim.com/temp/assets/img/fishing-tourney/fish_pochette.png"  style="width:100%;max-width:128px"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><center><b>Anchor Statue</b><br>(com 6 variações)</center></td>
+    <td><center><b>Fish Doorplate</b><br>(com 8 variações)</center></td>
+    <td><center><b>Fish Pochette</b><br></center></td>
+  </tr>
+</tbody>
+</table>
+</center>
 
-|<img src="{{site.baseurl}}/assets/img/fishing-tourney/anchor_statue.png" width="128px" height="128px">|<img src="{{site.baseurl}}/assets/img/fishing-tourney/fish_doorplate.png" width="128px" height="128px">|<img src="{{site.baseurl}}/assets/img/fishing-tourney/fish_pochette.png" width="128px" height="128px">|
-| :-------------------------:| :-------------------------:| :-------------------------:|
-| Anchor Statue <br />(com 6 variações)|Fish Doorplate<br />(com 8 variações)|Fish Pochette|
-|<img src="{{site.baseurl}}/assets/img/fishing-tourney/fish_print.png" width="128px" height="128px">|<img src="{{site.baseurl}}/assets/img/fishing-tourney/fish_rug.png" width="128px" height="128px">|<img src="{{site.baseurl}}/assets/img/fishing-tourney/fish_umbrella.png" width="128px" height="128px">|
-|Fish Print<br />(com 7 variações)|Fish Rug|Fish Umbrella|
-|<img src="{{site.baseurl}}/assets/img/fishing-tourney/fish_wand.png" width="128px" height="128px">|<img src="{{site.baseurl}}/assets/img/fishing-tourney/fish-drying_rack.png" width="128px" height="128px">|<img src="{{site.baseurl}}/assets/img/fishing-tourney/fishing-rod_stand.png" width="128px" height="128px">|
-|Fish Wand|Fish-Drying Rack<br />(com 3 variações)|Fishing-Rod Stand<br />(com 3 variações)|
-|<img src="{{site.baseurl}}/assets/img/fishing-tourney/fish-print_tee.png" width="128px" height="128px">|<img src="{{site.baseurl}}/assets/img/fishing-tourney/fresh_cooler.png" width="128px" height="128px">|<img src="{{site.baseurl}}/assets/img/fishing-tourney/marine_pop_wall.png" width="128px" height="128px">|
-|Fish-Print Tee|Fresh Cooler|Marine Pop Wall|
-|<img src="{{site.baseurl}}/assets/img/fishing-tourney/tackle_bag.png" width="128px" height="128px">|||
-|Tackle Bag|||
+<center>
+<table>
+<thead>
+  <tr>
+    <th><img src="https://alexbarlim.com/temp/assets/img/fishing-tourney/fish_print.png" style="width:100%;max-width:128px"></th>
+    <th><img src="https://alexbarlim.com/temp/assets/img/fishing-tourney/fish_rug.png" style="width:100%;max-width:128px"></th>
+    <th><img src="https://alexbarlim.com/temp/assets/img/fishing-tourney/fish_umbrella.png"  style="width:100%;max-width:128px"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><center><b>Fish Print</b><br>(com 7 variações)</center></td>
+    <td><center><b>Fish Rug</b><br></center></td>
+    <td><center><b>Fish Umbrella</b><br></center></td>
+  </tr>
+</tbody>
+</table>
+</center>
+
+<center>
+<table>
+<thead>
+  <tr>
+    <th><img src="https://alexbarlim.com/temp/assets/img/fishing-tourney/fish_wand.png" style="width:100%;max-width:128px"></th>
+    <th><img src="https://alexbarlim.com/temp/assets/img/fishing-tourney/fish-drying_rack.png" style="width:100%;max-width:128px"></th>
+    <th><img src="https://alexbarlim.com/temp/assets/img/fishing-tourney/fishing-rod_stand.png"  style="width:100%;max-width:128px"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><center><b>Fish Wand</b><br></center></td>
+    <td><center><b>Fish-Drying Rack</b><br>(com 3 variações)</center></td>
+    <td><center><b>Fishing-Rod Stand</b><br>(com 3 variações)</center></td>
+  </tr>
+</tbody>
+</table>
+</center>
+
+<center>
+<table>
+<thead>
+  <tr>
+    <th><img src="https://alexbarlim.com/temp/assets/img/fishing-tourney/fish-print_tee.png" style="width:100%;max-width:128px"></th>
+    <th><img src="https://alexbarlim.com/temp/assets/img/fishing-tourney/fresh_cooler.png" style="width:100%;max-width:128px"></th>
+    <th><img src="https://alexbarlim.com/temp/assets/img/fishing-tourney/marine_pop_wall.png"  style="width:100%;max-width:128px"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><center><b>Fish-Print Tee</b><br></center></td>
+    <td><center><b>Fresh Cooler</b><br></center></td>
+    <td><center><b>Marine Pop Wall</b><br></center></td>
+  </tr>
+</tbody>
+</table>
+</center>
+
+<center>
+<table>
+<thead>
+  <tr>
+    <th><img src="https://alexbarlim.com/temp/assets/img/fishing-tourney/tackle_bag.png" style="width:100%;max-width:128px"></th>
+    <th></th>
+    <th></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><center><b>Tackle Bag</b><br></center></td>
+    <td></td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
+</center>
 
 ## Bônus de Pontos no Multiplayer
 
