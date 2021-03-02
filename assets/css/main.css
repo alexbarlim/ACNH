@@ -4915,3 +4915,17 @@ min-height: 700px;
     font-size: 1.2rem;
   }
 }
+
+
+
+
+
+/* for image caption */
+img + br + em {
+    font-style: normal;
+    display: inherit;
+    text-align: center;
+    font-size: 90%;
+}
+
+

@@ -40,7 +40,9 @@ Para ganhar mais pontos extras de bônus você pode jogar em **multiplayer**. Jo
     <img src="{{site.baseurl}}/assets/img/fishing-tourney/TrophyFishBronz.png" alt="dominating_sets_example2"/>
     <br>
     <em>Fig. 2: The minimum dominating set of a graph</em>
+</p>
 
+<p>
     <img src="{{site.baseurl}}/assets/img/fishing-tourney/TrophyFishBronz.png" alt="dominating_sets_example2"/>
     <br>
     <em>Fig. 2: The minimum dominating set of a graph</em>
