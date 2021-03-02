@@ -1,5 +1,6 @@
 ---
 layout: post
+published: false
 title: "Sweden: Beautiful forest"
 img: sweden.jpg # Add image post (optional)
 date: 2017-07-12 12:52:00 +0300

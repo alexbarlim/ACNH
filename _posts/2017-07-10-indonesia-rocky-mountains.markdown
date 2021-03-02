@@ -1,5 +1,6 @@
 ---
 layout: post
+published: false
 title: "Indonesia: Rocky mountains"
 img: indonesia.jpg # Add image post (optional)
 date: 2017-07-10 12:51:00 +0300

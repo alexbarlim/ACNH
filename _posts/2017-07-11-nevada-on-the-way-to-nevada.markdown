@@ -1,5 +1,6 @@
 ---
 layout: post
+published: false
 title: "Nevada: On the way to Nevada"
 img: nevada.jpg # Add image post (optional)
 date: 2017-07-11 12:50:00 +0300
