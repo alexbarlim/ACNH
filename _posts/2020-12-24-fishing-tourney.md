@@ -67,9 +67,9 @@ Usando **10 pontos** você pode falar com **C.J.** e resgatar um prêmio aleató
 <table>
 <thead>
   <tr>
-    <th><img src="https://alexbarlim.com/temp/assets/img/fishing-tourney/anchor_statue.png" style="width:100%;max-width:128px"></th>
-    <th><img src="https://alexbarlim.com/temp/assets/img/fishing-tourney/fish_doorplate.png" style="width:100%;max-width:128px"></th>
-    <th><img src="https://alexbarlim.com/temp/assets/img/fishing-tourney/fish_pochette.png"  style="width:100%;max-width:128px"></th>
+    <th><img src="{{site.baseurl}}/assets/img/fishing-tourney/anchor_statue.png" style="width:100%;max-width:128px"></th>
+    <th><img src="{{site.baseurl}}/assets/img/fishing-tourney/fish_doorplate.png" style="width:100%;max-width:128px"></th>
+    <th><img src="{{site.baseurl}}/assets/img/fishing-tourney/fish_pochette.png"  style="width:100%;max-width:128px"></th>
   </tr>
 </thead>
 <tbody>
@@ -86,9 +86,9 @@ Usando **10 pontos** você pode falar com **C.J.** e resgatar um prêmio aleató
 <table>
 <thead>
   <tr>
-    <th><img src="https://alexbarlim.com/temp/assets/img/fishing-tourney/fish_print.png" style="width:100%;max-width:128px"></th>
-    <th><img src="https://alexbarlim.com/temp/assets/img/fishing-tourney/fish_rug.png" style="width:100%;max-width:128px"></th>
-    <th><img src="https://alexbarlim.com/temp/assets/img/fishing-tourney/fish_umbrella.png"  style="width:100%;max-width:128px"></th>
+    <th><img src="{{site.baseurl}}/assets/img/fishing-tourney/fish_print.png" style="width:100%;max-width:128px"></th>
+    <th><img src="{{site.baseurl}}/assets/img/fishing-tourney/fish_rug.png" style="width:100%;max-width:128px"></th>
+    <th><img src="{{site.baseurl}}/assets/img/fishing-tourney/fish_umbrella.png"  style="width:100%;max-width:128px"></th>
   </tr>
 </thead>
 <tbody>
@@ -105,9 +105,9 @@ Usando **10 pontos** você pode falar com **C.J.** e resgatar um prêmio aleató
 <table>
 <thead>
   <tr>
-    <th><img src="https://alexbarlim.com/temp/assets/img/fishing-tourney/fish_wand.png" style="width:100%;max-width:128px"></th>
-    <th><img src="https://alexbarlim.com/temp/assets/img/fishing-tourney/fish-drying_rack.png" style="width:100%;max-width:128px"></th>
-    <th><img src="https://alexbarlim.com/temp/assets/img/fishing-tourney/fishing-rod_stand.png"  style="width:100%;max-width:128px"></th>
+    <th><img src="{{site.baseurl}}/assets/img/fishing-tourney/fish_wand.png" style="width:100%;max-width:128px"></th>
+    <th><img src="{{site.baseurl}}/assets/img/fishing-tourney/fish-drying_rack.png" style="width:100%;max-width:128px"></th>
+    <th><img src="{{site.baseurl}}/assets/img/fishing-tourney/fishing-rod_stand.png"  style="width:100%;max-width:128px"></th>
   </tr>
 </thead>
 <tbody>
@@ -124,9 +124,9 @@ Usando **10 pontos** você pode falar com **C.J.** e resgatar um prêmio aleató
 <table>
 <thead>
   <tr>
-    <th><img src="https://alexbarlim.com/temp/assets/img/fishing-tourney/fish-print_tee.png" style="width:100%;max-width:128px"></th>
-    <th><img src="https://alexbarlim.com/temp/assets/img/fishing-tourney/fresh_cooler.png" style="width:100%;max-width:128px"></th>
-    <th><img src="https://alexbarlim.com/temp/assets/img/fishing-tourney/marine_pop_wall.png"  style="width:100%;max-width:128px"></th>
+    <th><img src="{{site.baseurl}}/assets/img/fishing-tourney/fish-print_tee.png" style="width:100%;max-width:128px"></th>
+    <th><img src="{{site.baseurl}}/assets/img/fishing-tourney/fresh_cooler.png" style="width:100%;max-width:128px"></th>
+    <th><img src="{{site.baseurl}}/assets/img/fishing-tourney/marine_pop_wall.png"  style="width:100%;max-width:128px"></th>
   </tr>
 </thead>
 <tbody>
@@ -143,7 +143,7 @@ Usando **10 pontos** você pode falar com **C.J.** e resgatar um prêmio aleató
 <table>
 <thead>
   <tr>
-    <th><img src="https://alexbarlim.com/temp/assets/img/fishing-tourney/tackle_bag.png" style="width:100%;max-width:128px"></th>
+    <th><img src="{{site.baseurl}}/assets/img/fishing-tourney/tackle_bag.png" style="width:100%;max-width:128px"></th>
     <th></th>
     <th></th>
   </tr>
