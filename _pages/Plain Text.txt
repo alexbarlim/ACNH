@@ -1,0 +1,64 @@
+---
+layout: default
+title: Temporizador de Balões
+permalink: /temporizador-baloes/
+---
+
+<p>Há sempre um lado certo em que os balões estão surgindo dependendo do horário em sua ilha. De dia (enquanto ainda tiver sol) eles irão surgir do lado esquerdo. E a noite (quando o sol se põe) eles surgem do lado direito.</p>
+
+<p>Sabendo disso, <strong>selecione o lado correto</strong> em que os balões estão surgindo em sua ilha no mapa a baixo.</p>
+
+<p><strong>Nem todos os balões aparecem seguidamente</strong>, mas o mapa irá te auxiliar a localiza-lo caso tenha surgido um em sua ilha.</p>
+
+<!-- import the webpage's stylesheet -->
+    <link rel="stylesheet" href="http://acnh.alexbarlim.com/acnh-balloon-timer/style-edit-5.css">
+
+    <!-- import the webpage's javascript file -->
+    <script src="http://acnh.alexbarlim.com/acnh-balloon-timer/script.js" defer=""></script>
+  
+  
+    
+    <main>
+
+
+      <svg id="map" viewBox="0 0 112 96" xmlns="http://www.w3.org/2000/svg">
+
+        <defs>
+          <pattern id="grid-line" x="0" y="0" width="16" height="16" patternUnits="userSpaceOnUse">
+            <line x1="16" y1="0" x2="16" y2="16" stroke="white" stroke-dasharray="1.05 1"></line>
+            <line x1="0" y1="16" x2="16" y2="16" stroke="white" stroke-dasharray="1.05 1"></line>
+          </pattern>
+        </defs>
+
+        <rect width="112" height="112" fill="#96DAB5"></rect>
+        <rect x="8" y="12" width="96" height="80" fill="#F2E7A4" rx="8"></rect>
+        <rect x="8" y="12" width="96" height="6" fill="#6B7380" rx="4"></rect>
+        <rect x="14" y="14" width="84" height="68" fill="#3B793C" rx="2"></rect>
+
+        <g id="balloon-1" transform="translate(0 0)">
+          <line class="line" x1="0" y1="0" x2="0" y2="112"></line>
+        </g>
+
+        <g id="balloon-2" transform="translate(0 0)">
+          <line class="line" x1="0" y1="0" x2="0" y2="112"></line>
+        </g>
+
+        <rect width="111" height="95" fill="url(#grid-line)" opacity="0.5" transform="translate(0.25 0.25)"></rect>
+      </svg>
+      
+      
+      <form id="wind">
+          <input type="radio" id="west" name="wind" value="1" checked="">
+          <p class="desc">Direção do Vento</p>
+          <input type="radio" id="east" name="wind" value="-1">
+      </form>
+    </main>
+    
+
+    <!-- include the Glitch button to show what the webpage is about and
+          to make it easier for folks to view source and remix -->
+    <div class="glitchButton" style="position:fixed;top:20px;right:20px;"></div>
+    <script src="http://acnh.alexbarlim.com/acnh-balloon-timer/button.js"></script>
+
+<p>O mapa foi desenvolvido por <a rel="noreferrer noopener" href="https://glitch.com/@RayPS" target="_blank">@RayPS</a>.<br>The map was developed by <a rel="noreferrer noopener" href="https://glitch.com/@RayPS" target="_blank">@RayPS</a>.</p>
+
